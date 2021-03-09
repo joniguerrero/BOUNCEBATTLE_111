@@ -1,6 +1,6 @@
 import java.util.Scanner;
 /*
-team members: Arturo Villalobos
+team members: Arturo Villalobos, Joni Guerrero
 Date: 3-8-21
 Assignment: group project 1
 */
@@ -15,4 +15,3 @@ class BounceBattle
 
     }
 }
-
